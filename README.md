@@ -1,5 +1,5 @@
 
-<h1>aboutmyself</h1>
+<h1>profile</h1>
 A self-initiating, well-disciplined, dedicated with good leadership capabilities who is always willing to learn new things. A person who believes in teamwork and always strives to achieve greater heights in life.
 
 <h1>linkedin</h1>

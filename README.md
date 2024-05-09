@@ -1,6 +1,3 @@
-a.repo-name {
-   color:blue;
-   }
 
 
 <h1>aboutmyself</h1>
